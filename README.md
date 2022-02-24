@@ -3,7 +3,7 @@ Spring-based Library Application using Spring MVC, Hibernate (mySQL), and HTML/C
 
 Created by Andrew Williams (andromeda-saint)
 
-Visit my website to see a demo (http://www.AndrewWilliams.info)
+
 
 -Clicking on Title expands to show book information
 
